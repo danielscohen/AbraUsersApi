@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mor+rs1SXn0XFXiqlXo1b+YRDRe1dp1Kvll9voN1IPs9+aCwQnsD0vDCyT9YXuHLp17u4bhk/B5rkkrmRxq36A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dscoh\\OneDrive\\Documents\\job_search\\code\\LearnWebAPI\\AbraUserApiSol\\AbraUserApi\\AbraUserApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dscoh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dscoh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dscoh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\dscoh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\dscoh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\dscoh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
